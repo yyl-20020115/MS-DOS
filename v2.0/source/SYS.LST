@@ -1,0 +1,48 @@
+
+Microsoft (R) Macro Assembler Version 5.10                  11/28/25 21:10:3
+MS-DOS SYS Program                                          Symbols-1
+
+
+Macros:
+
+		N a m e			Lines
+
+?Z0  . . . . . . . . . . . . . .  	   0
+ADD_EXT  . . . . . . . . . . . .  	   7
+BREAK  . . . . . . . . . . . . .  	   2
+DEF_MAC  . . . . . . . . . . . .  	   0
+INVOKE . . . . . . . . . . . . .  	   4
+I_AM . . . . . . . . . . . . . .  	  14
+I_NEED . . . . . . . . . . . . .  	  13
+LONG_ADDR  . . . . . . . . . . .  	   4
+PROCEDURE  . . . . . . . . . . .  	   2
+SHORT_ADDR . . . . . . . . . . .  	   8
+TRANSFER . . . . . . . . . . . .  	   4
+
+Symbols:            
+
+                N a m e         	Type	 Value	 Attr
+
+FALSE  . . . . . . . . . . . . .  	NUMBER	0000	
+
+IBMJAPVER  . . . . . . . . . . .  	ALIAS	 FALSE		
+IBMVER . . . . . . . . . . . . .  	ALIAS	 FALSE		
+
+MSVER  . . . . . . . . . . . . .  	ALIAS	 TRUE		
+
+TRUE . . . . . . . . . . . . . .  	NUMBER	FFFF	
+
+?I . . . . . . . . . . . . . . .  	NUMBER	0000	
+@CPU . . . . . . . . . . . . . .  	TEXT  0101h		
+@FILENAME  . . . . . . . . . . .  	TEXT  SYS		
+@VERSION . . . . . . . . . . . .  	TEXT  510		
+
+
+      0 Source  Lines
+      0 Total   Lines
+     21 Symbols
+
+  47460 + 264168 Bytes symbol space free
+
+      0 Warning Errors
+      0 Severe  Errors

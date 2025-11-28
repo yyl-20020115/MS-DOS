@@ -1,0 +1,25 @@
+DOSMAC.ASM(38) : Error A2150: Missing operator in expression
+ DOSMAC.ASM(38): Included by
+  DOSSYM.ASM(1): Included by
+   SYS.ASM(25): Main line code
+DOSMAC.ASM(39) : Error A2209: Syntax error: &
+ DOSMAC.ASM(39): Included by
+  DOSSYM.ASM(1): Included by
+   SYS.ASM(25): Main line code
+DOSMAC.ASM(40) : Error A2209: Syntax error: add_ext
+ DOSMAC.ASM(40): Included by
+  DOSSYM.ASM(1): Included by
+   SYS.ASM(25): Main line code
+DOSMAC.ASM(41) : Error A2209: Syntax error: &
+ DOSMAC.ASM(41): Included by
+  DOSSYM.ASM(1): Included by
+   SYS.ASM(25): Main line code
+DOSMAC.ASM(42) : Error A2082: Must be in segment block
+ DOSMAC.ASM(42): Included by
+  DOSSYM.ASM(1): Included by
+   SYS.ASM(25): Main line code
+DOSMAC.ASM(43) : Error A2162: Unmatched macro nesting
+ DOSMAC.ASM(43): Included by
+  DOSSYM.ASM(1): Included by
+   SYS.ASM(25): Main line code
+DOSSYM.ASM(1) : Fatal error A1162: Unmatched macro nesting
