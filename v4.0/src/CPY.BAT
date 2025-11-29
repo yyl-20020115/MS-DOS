@@ -1,3 +1,4 @@
+if not exist %1 (mkdir %1)
 copy .\bios\io.sys %1
 copy .\dos\msdos.sys %1
 copy .\cmd\append\append.exe %1
